@@ -1,0 +1,18 @@
+DONE (A) Fix mulligan
+(B) Save databaseExport return in firebase. It is currently a proxy, so what you probs. need to do is interpret it using some basic logic to save into new objects.
+(C) Load firebase from logging in. Make sure to change deckTitle upon load too. 
+(D) Popup that prompts you to login? 
+(E) Deck statistics? 
+(F) Commander Support
+(f2) partner support?
+(F2) Export/Import with popup prompt. 
+(G) More options on click with dropdown menu? 
+(H) Logo top left of navbar? 
+(I) Add support for different screen sizes
+(J) Format support? This would require a sideboard/maybeboard support though
+(H) Add infoboxes for different components regarding game and app rules (f.ex. "What is mulligan" button)
+
+BEFORE WE SUBMIT
+- Remove all console.log()
+- No visible bugs
+- Remove all unused variables, functions, props and imports.

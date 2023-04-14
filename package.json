@@ -1,0 +1,24 @@
+{
+  "name": "spellfair",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "firebase": "^9.15.0",
+    "vue": "^3.2.41",
+    "vue-chartjs": "^4.1.2",
+    "vue-google-charts": "^1.1.0",
+    "vue-router": "^4.0.13",
+    "vuetify": "^3.0.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.3"
+  }
+}
